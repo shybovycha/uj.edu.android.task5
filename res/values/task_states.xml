@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="task_states">
+        <item>Open</item>
+        <item>In progress</item>
+        <item>On hold</item>
+        <item>Rejected</item>
+        <item>In testing</item>
+        <item>Done</item>
+    </string-array>
+</resources>
